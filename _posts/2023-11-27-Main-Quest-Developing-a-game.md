@@ -39,18 +39,15 @@ But of course C is not without its issues, it's a language more than 50 years ol
 language in any real significant way since c99. This age can be both good and bad, good because you can find almost all your questions answered somewhere on the internet. 
 It's a real simple, and very much proven language, but in this day and age some newer concepts have appeared that can be very nice to have that is not supported by c, or is somewhat supported but than we would need to use the awful preprocessing C macros. One of the biggest for me would be generics. Being able to write reusable code for different types can really help in the development speed, and though you can somewhat achieve the same with c by using void pointers or macro's it never really felt as a decent solution. 
 
-This is where Zig comes in, You can see it as C (very simple, and close to the hardware) but it also contains some nowadays standard things like namespaces and introduces some very interesting new concepts like compile time programming using the language itself, no macros or templates. In some cases, it can be even closer to the hardware than C as it supports even arbitrary bit width integers like u1 or u7. Another notable feature is being able to write tests directly next to your code, no external libraries necessary.
+This is where Zig comes in, You can see it as C (very simple, and close to the hardware) but it also contains some nowadays standard things like namespaces and introduces some very interesting new concepts like compile time programming using the language itself, no macros or templates and a build system using the language itself. In some cases, it can be even closer to the hardware than C as it supports even arbitrary bit width integers like u1 or u7. Another notable feature is being able to write tests directly next to your code, no external libraries necessary.
 
 Talking about external libraries, this time I'm going to challenge myself to try to create my game without external libraries other than the zig std.
 
 Learn more about Zig's features [here!](https://ziglang.org/learn/overview/)
 
-
-
 ## You said no external libraries!?
 Yes you heard it correctly, for me this is not about the destination, we know what that is most likely, (looking at you my 73 git repos containing stale projects.)
 It's about the journey, and by excluding external libraries I can hopefully extend this journey in the hope of keeping my interest, letting me share as much as my findings with you as possible.
-
 
 ![A programmer with a quest](/assets/img/running_programmer.jpg){: width="256" height="256" }
 ## Quests
