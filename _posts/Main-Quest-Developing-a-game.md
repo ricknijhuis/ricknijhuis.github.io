@@ -3,6 +3,7 @@ layout: post
 title:  "Main Quest, Developing a game"
 date:   2023-10-23 19:11:17 +0200
 categories: game development
+comments: true
 ---
 
 Have you ever started a development project only to abandon it midway?  
@@ -78,20 +79,3 @@ And many others.
 ## In Conclusion
 With this journey in mind I hope to keep you entertained and help you learn something.
 If you have any questions or suggestions, just let me know in a comment and who knows we can become friends along the way.
-
-<script src="https://giscus.app/client.js"
-        data-repo="ricknijhuis/ricknijhuis.github.io"
-        data-repo-id="R_kgDOKkFnWA"
-        data-category="General"
-        data-category-id="DIC_kwDOKkFnWM4CaYbc"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
